@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<studentdetails>  
+  
+  <student>  
+    <id>01</id>  
+    <name>Nilesh</name>  
+    <city>Rajkot</city>  
+  </student>  
+  
+  <student>  
+    <id>02</id>  
+    <name>Purnima</name>  
+    <city>Ahmedabad</city>  
+  </student>  
+  
+  <student>  
+    <id>03</id>  
+    <name>Chandni</name>  
+    <city>Mumbai</city>  
+  </student>  
+  
+  <student>  
+    <id>04</id>  
+    <name>Rinku</name>  
+    <city>Pune</city>  
+  </student>  
+  
+  <student>  
+    <id>05</id>  
+    <name>Nilu</name>  
+    <city>Delhi</city>  
+  </student>  
+  
+  <student>  
+    <id>06</id>  
+    <name>Shailesh</name>  
+    <city>Nashik</city>  
+  </student>
+
+  <student>
+    <id>07</id>
+    <name>Nilesh</name>
+    <city>Rajkot</city>
+  </student>
+
+  <student>
+    <id>08</id>
+    <name>Purnima</name>
+    <city>Ahmedabad</city>
+  </student>
+
+  <student>
+    <id>09</id>
+    <name>Chandni</name>
+    <city>Mumbai</city>
+  </student>
+
+  <student>
+    <id>10</id>
+    <name>Rinku</name>
+    <city>Pune</city>
+  </student>
+
+  <student>
+    <id>11</id>
+    <name>Nilu</name>
+    <city>Delhi</city>
+  </student>
+
+  <student>
+    <id>12</id>
+    <name>Shailesh</name>
+    <city>Nashik</city>
+  </student>
+  
+</studentdetails> 
